@@ -2,3 +2,9 @@ fastapi
 uvicorn
 PyMuPDF
 pypdf
+transformers
+uvicorn
+fastapi
+torch
+click
+sentencepiece
